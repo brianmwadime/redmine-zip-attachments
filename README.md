@@ -6,7 +6,7 @@ You can configure whether this functionality is enabled or disabled.
 
 Installation
 ============
-1. Clone latest version of plugin from git, install it to plugins. git clone git@github.com:brianmwadime/redmine-zip-attachments.git zip_attachments
+1. Clone latest version of plugin from git, install it to plugins. git clone ssh://git@github.com:brianmwadime/redmine-zip-attachments.git zip_attachments
 
 2. Make sure your plugin folder name is *zip_attachments*
 
