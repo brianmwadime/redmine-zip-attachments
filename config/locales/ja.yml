@@ -1,0 +1,4 @@
+# Japanese strings go here for Rails i18n
+ja:
+  label_zip_attachments : "添付ファイルを全てZipアーカイブでダウンロード"
+  settings_enable_zip_attachments : "Zipアーカイブでのダウンロードを有効化する"
