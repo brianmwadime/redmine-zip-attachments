@@ -25,9 +25,6 @@ Contact
 You can log bugs and feature requests for this plugin here:
 https://github.com/brianmwadime/redmine-zip-attachments/issues
 
-If you would like to send me an email, here you go: info@brianmwadime.com
-
-If you would like to read my blog, please visit:
-http://www.brianmwadime.com
+If you would like to send me an email, here you go: brian.mwadime@gmail.com
 
 Or follow me on twitter http://twitter.com/brianmwadime
