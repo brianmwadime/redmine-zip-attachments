@@ -1,0 +1,4 @@
+# Russian strings go here for Rails i18n
+ru:
+  label_zip_attachments : "Загрузить все файлы одним архивом (zip)"
+  settings_enable_zip_attachments : "Включить загрузку файлов zip-архивом"
