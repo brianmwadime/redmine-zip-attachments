@@ -7,7 +7,7 @@ module ZipAttachments
         base.extend(ClassMethods)
         base.send(:include, InstanceMethods)
         base.class_eval do
-          skip_before_filter :authorize_global
+          skip_before_action :authorize_global
         end
       end
 
