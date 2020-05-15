@@ -5,7 +5,8 @@ module ZipAttachments
         base.send(:include, InstanceMethods)
 
         base.class_eval do
-          alias_method_chain :link_to_attachments, :zip_attachments
+          alias_method :link_to_attachments_without_zip_attachments, :link_to_attachments
+          alias_method :link_to_attachments, :link_to_attachments_with_zip_attachments
         end
 
       end
