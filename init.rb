@@ -9,3 +9,9 @@ Redmine::Plugin.register :zip_attachments do
 
   settings :default => {}, :partial => 'zip_attachments/settings'
 end
+
+RedmineApp::Application.configure do
+  config.after_initialize do
+    Zip.unicode_names = true
+  end
+end
